@@ -15,7 +15,7 @@ You need about 30–40 minutes. Most of it is waiting for servers to start.
    and change this line:
 
    ```yaml
-   name: foodme-armanayvazyan
+   name: foodme-lusinepoghosyan
    ```
 
    to your own GitHub username, for example:
